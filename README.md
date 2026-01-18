@@ -310,7 +310,7 @@ See the repository for commit history showing:
 
 ## Author
 
-School of Computer Science - Hotel Reservation System Project
+Hamza Arif
 
 ## License
 
